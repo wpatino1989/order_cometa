@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/wpatino1989/beer_order.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/wpatino1989/beer_order_frontend.git
